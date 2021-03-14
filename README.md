@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Burger-Builder-App
 
-This project display a beatiful burger Order placing web app in which you can -
+This project display a beautiful burger Order placing web app in which you can -
 
 * Add and Remove ingredients.
 * See the Total price.
